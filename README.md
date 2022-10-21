@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @saini-prabhav
 - 👀 I’m interested in java Development
-- 🌱 I’m currently learning springBoot
 
 
 <!---
